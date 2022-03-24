@@ -1,0 +1,16 @@
+{
+    "name": "Mgr",
+    "references": [
+        "GUID:92576a1708355164c81f27fd4bd1756d",
+        "GUID:bf4b11b846373ee4ea72116908f82022"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

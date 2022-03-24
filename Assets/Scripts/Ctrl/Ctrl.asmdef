@@ -1,0 +1,16 @@
+{
+    "name": "Ctrl",
+    "references": [
+        "GUID:7179a2be5d50bab42bffb9115a3f5e32",
+        "GUID:bf4b11b846373ee4ea72116908f82022"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
